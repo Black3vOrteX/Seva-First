@@ -1,0 +1,43 @@
+name,type,city,state,lat,lon,aliases
+Delhi,city,Delhi,Delhi,28.61,77.21,new delhi
+Mumbai,city,Mumbai,Maharashtra,19.08,72.88,bombay
+Kolkata,city,Kolkata,West Bengal,22.57,88.36,calcutta
+Chennai,city,Chennai,Tamil Nadu,13.08,80.27,madras
+Bengaluru,city,Bengaluru,Karnataka,12.97,77.59,bangalore
+Hyderabad,city,Hyderabad,Telangana,17.39,78.49,
+Ahmedabad,city,Ahmedabad,Gujarat,23.02,72.57,
+Pune,city,Pune,Maharashtra,18.52,73.86,
+Jaipur,city,Jaipur,Rajasthan,26.91,75.79,
+Lucknow,city,Lucknow,Uttar Pradesh,26.85,80.95,
+Kanpur,city,Kanpur,Uttar Pradesh,26.45,80.33,
+Agra,city,Agra,Uttar Pradesh,27.18,78.01,
+Varanasi,city,Varanasi,Uttar Pradesh,25.32,82.97,benares;banaras
+Patna,city,Patna,Bihar,25.59,85.14,
+Bhopal,city,Bhopal,Madhya Pradesh,23.26,77.41,
+Indore,city,Indore,Madhya Pradesh,22.72,75.86,
+Nagpur,city,Nagpur,Maharashtra,21.15,79.09,
+Surat,city,Surat,Gujarat,21.17,72.83,
+Jodhpur,city,Jodhpur,Rajasthan,26.24,73.02,
+Chandigarh,city,Chandigarh,Chandigarh,30.73,76.78,
+Amritsar,city,Amritsar,Punjab,31.63,74.87,
+Ludhiana,city,Ludhiana,Punjab,30.90,75.86,
+Gurugram,city,Gurugram,Haryana,28.46,77.03,gurgaon
+Dehradun,city,Dehradun,Uttarakhand,30.32,78.03,
+Shimla,city,Shimla,Himachal Pradesh,31.10,77.17,
+Srinagar,city,Srinagar,Jammu and Kashmir,34.08,74.80,
+Guwahati,city,Guwahati,Assam,26.14,91.74,
+Ranchi,city,Ranchi,Jharkhand,23.34,85.31,
+Raipur,city,Raipur,Chhattisgarh,21.25,81.63,
+Bhubaneswar,city,Bhubaneswar,Odisha,20.30,85.82,
+Visakhapatnam,city,Visakhapatnam,Andhra Pradesh,17.69,83.22,vizag;vishakhapatnam
+Vijayawada,city,Vijayawada,Andhra Pradesh,16.51,80.65,
+Kochi,city,Kochi,Kerala,9.93,76.27,cochin
+Thiruvananthapuram,city,Thiruvananthapuram,Kerala,8.52,76.94,trivandrum
+Coimbatore,city,Coimbatore,Tamil Nadu,11.02,76.96,
+Madurai,city,Madurai,Tamil Nadu,9.93,78.12,
+Mangaluru,city,Mangaluru,Karnataka,12.91,74.86,mangalore
+Panaji,city,Panaji,Goa,15.50,73.83,panjim
+Kukatpally,area,Hyderabad,Telangana,17.49,78.41,
+Andheri,area,Mumbai,Maharashtra,19.12,72.85,
+T Nagar,area,Chennai,Tamil Nadu,13.04,80.23,
+Whitefield,area,Bengaluru,Karnataka,12.97,77.75,
