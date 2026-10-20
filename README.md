@@ -1,2 +1,2 @@
-# SIH
-National Weather Big Data Analytics Platform
+Seva First Challenge
+Built upon STORM STACK
